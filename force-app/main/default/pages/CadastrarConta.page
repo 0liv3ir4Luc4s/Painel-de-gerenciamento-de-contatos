@@ -1,0 +1,9 @@
+<apex:page showHeader='false' standardStylesheets='false'>
+<head>
+	<meta charset="UTF-8">
+	<title>Cadastrar Conta</title>
+</head>
+<body>
+	
+</body>
+</apex:page>
